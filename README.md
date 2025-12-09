@@ -1,4 +1,3 @@
-```markdown
 # Financial-Market-Analysis-Nifty-SP500-Gold-USDINR
 
 This repository contains a Google Colab notebook that performs a comprehensive analysis of various financial market instruments: Nifty 50, S&P 500, Gold Futures, and USD/INR exchange rates.
@@ -39,4 +38,3 @@ The historical data for Nifty 50, S&P 500, Gold Futures, and USD/INR exchange ra
 - `USD_INR Historical Data2.csv`
 
 These files should contain columns such as 'Date', 'Price', 'Open', 'High', 'Low', 'Vol.', and 'Change %'.
-```
